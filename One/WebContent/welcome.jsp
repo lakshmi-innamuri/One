@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Welcome to Git Jenkins!</h1>
-<p> setting up git hooks</p>
+<p> setting up git post commit hooks</p>
 </body>
 </html>
