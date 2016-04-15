@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to Git Jenkins!</h1>
-<p> git post commit hooks</p>
-<p>hook..</p>
+<h1>Welcome to Git Jenkins!!</h1>
 </body>
 </html>
